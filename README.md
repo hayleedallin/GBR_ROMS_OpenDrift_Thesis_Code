@@ -2,7 +2,7 @@
 
 This notebook simulates the dispersal of coral larvae from a cluster of reefs on the
 central Great Barrier Reef after a mass spawning event, and estimates where those
-larvae settle. It was developed for [thesis/report title, author, institution, year].
+larvae settle.
 
 ## What it does
 
